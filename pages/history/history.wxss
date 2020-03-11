@@ -1,0 +1,20 @@
+.content{
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: border-box;
+    background-color: azure;
+    padding:0 5px;
+}
+.item{
+    width: 95%;
+    line-height: 100rpx;
+    margin-top: 3rpx;
+    margin-bottom:3rpx;
+    border-radius: 3px;
+    padding: 3rpx;
+    box-shadow: 0 4px #e76a3d;
+    color:#fef4e9;
+    
+    background: #fdb10b;
+}
